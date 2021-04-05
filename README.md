@@ -5,6 +5,7 @@ High level project plan
  - aether standard library                      [ ]
  - aether compiler                              [ ]
  - aether code port                             [ ]
+ - hot swapping aether code                     [x]
 
 Low level project plan, this week todos
  - make lexer/parser                            [ ]
