@@ -10,4 +10,7 @@ High level project plan
 Low level project plan, this week todos
  - make lexer/parser                            [ ]
  - do ir code converter                         [ ]
+   - do system functions                        [ ]
+   - do module/module function lookup           [ ]
+   - do import function code generation         [ ]
  - do initial code generation testing           [ ]
