@@ -17,11 +17,28 @@ Low level project plan, this week todos
 
 Add progress TODO list
 - does log and/log or need push_frame/pop_frame?
-- TODO tomorrow types
-- TODO tomorrow full seach
-- TODO tomorrow casts
-- TODO tomorrow pointer ops
-- TODO tomorrow resolve all call/operators
+- tomorrow types
+- tomorrow full seach
+- tomorrow casts
+- tomorrow pointer ops
+- tomorrow resolve all call/operators
 - ccall/aethcall
-- TODO load system_functions (like main function)
-- TODO add const/volatile correctness
+- load system_functions (like main function)
+- add const/volatile correctness
+- construct call
+- variable + destructor
+- lambda function
+- dotmem
+- index
+- post plus plus
+- post minus minus
+- pre plus
+- pre minus
+- pre compliment
+- pre not
+- pre question
+- pre address
+- pre deref
+- cast/conversion
+- function casts / function/operator call determination
+- 
