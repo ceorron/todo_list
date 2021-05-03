@@ -41,4 +41,4 @@ Add progress TODO list
 - pre deref
 - cast/conversion
 - function casts / function/operator call determination
-- 
+- global/local correctness
