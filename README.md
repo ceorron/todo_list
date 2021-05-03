@@ -42,3 +42,4 @@ Add progress TODO list
 - cast/conversion
 - function casts / function/operator call determination
 - global/local correctness
+- windows LoadLibrary/GetProcAddress
