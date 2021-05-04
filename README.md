@@ -43,3 +43,4 @@ Add progress TODO list
 - function casts / function/operator call determination
 - global/local correctness
 - windows LoadLibrary/GetProcAddress
+- alignment_of<:T:> other inbuilt functions
