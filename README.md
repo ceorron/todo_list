@@ -16,9 +16,9 @@ Low level project plan, this week todos
  - do initial end to end code generation testing           [ ]
 
 Add progress TODO list
-- does log and/log or need push_frame/pop_frame?
+- tomorrow full search
 - tomorrow types
-- tomorrow full seach
+- does log and/log or need push_frame/pop_frame?
 - tomorrow casts
 - tomorrow pointer ops
 - tomorrow resolve all call/operators
