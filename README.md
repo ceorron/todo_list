@@ -22,7 +22,7 @@ Add progress TODO list
 - tomorrow casts
 - tomorrow pointer ops
 - tomorrow resolve all call/operators
-- ccall/aethcall
+- ccall/stdcall/aethcall
 - load system_functions (like main function)
 - add const/volatile correctness
 - construct call
