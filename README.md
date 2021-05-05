@@ -17,13 +17,13 @@ Low level project plan, this week todos
 
 Add progress TODO list
 - tomorrow full search
-    - functions (2)
     - pre-operators (3)
     - post-operators (4)
     - globals/local globals (8)
     - alias - templates (6)
     - classes/structs - templates (5)
     - includes/imports/import functions (7)
+    - templates (for functions)
 - tomorrow types
 - does log and/log or need push_frame/pop_frame?
 - tomorrow casts
