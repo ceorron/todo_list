@@ -17,10 +17,9 @@ Low level project plan, this week todos
 
 Add progress TODO list
 - tomorrow full search
-    - globals/local globals (8)
-    - includes/imports/import functions (7)
     - templates (for functions/et la) (9)
 - tomorrow types
+- resolve globals before main function
 - does log and/log or need push_frame/pop_frame?
 - tomorrow casts
 - tomorrow pointer ops
