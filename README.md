@@ -23,7 +23,6 @@ Add progress TODO list
     - globals/local globals (8)
     - alias - templates (6)
     - classes/structs - templates (5)
-    - enum/enum names (1)
     - includes/imports/import functions (7)
 - tomorrow types
 - does log and/log or need push_frame/pop_frame?
@@ -52,3 +51,4 @@ Add progress TODO list
 - global/local correctness
 - windows LoadLibrary/GetProcAddress
 - alignment_of<:T:> other inbuilt functions
+- get constants as values
