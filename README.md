@@ -18,7 +18,6 @@ Low level project plan, this week todos
 Add progress TODO list
 - tomorrow full search
     - globals/local globals (8)
-    - alias - templates (6)
     - includes/imports/import functions (7)
     - templates (for functions/et la) (9)
 - tomorrow types
