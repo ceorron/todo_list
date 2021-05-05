@@ -16,8 +16,6 @@ Low level project plan, this week todos
  - do initial end to end code generation testing           [ ]
 
 Add progress TODO list
-- tomorrow full search
-    - templates (for functions/et la) (9)
 - tomorrow types
 - resolve globals before main function
 - does log and/log or need push_frame/pop_frame?
@@ -47,3 +45,4 @@ Add progress TODO list
 - windows LoadLibrary/GetProcAddress
 - alignment_of<:T:> other inbuilt functions
 - get constants as values
+- finish of templates
