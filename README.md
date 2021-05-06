@@ -1,4 +1,4 @@
-# ordered todo list for ceorron projects
+# todo list for ceorron projects
 
 High level project plan
  - c++ compiler                                            [ ]
