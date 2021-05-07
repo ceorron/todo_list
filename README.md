@@ -16,7 +16,6 @@ Low level project plan, this week todos
  - do initial end to end code generation testing           [ ]
 
 Add progress TODO list
-- tomorrow types
 - resolve globals before main function
 - does log and/log or need push_frame/pop_frame?
 - tomorrow casts
