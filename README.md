@@ -23,6 +23,7 @@ Add progress TODO list
 - index
 - lambda function
 - tomorrow casts
+- ternary
 - construct call
 - cast/conversion
 - ccall/stdcall/aethcall
