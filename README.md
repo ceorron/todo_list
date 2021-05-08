@@ -27,6 +27,7 @@ Add progress TODO list
 - construct call
 - cast/conversion
 - ccall/stdcall/aethcall
+- return
 - tomorrow resolve all call/operators
 - alignment_of<:T:> other inbuilt functions
 - windows LoadLibrary/GetProcAddress
