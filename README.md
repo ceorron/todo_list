@@ -36,7 +36,7 @@ Add progress TODO list
 - tomorrow resolve all call/operators
 - alignment_of<:T:> other inbuilt functions
 - windows LoadLibrary/GetProcAddress
-
+- [ later ]
 - resolve globals before main function
 - does log and/log or need push_frame/pop_frame?
 - load system_functions (like main function)
