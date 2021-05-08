@@ -16,19 +16,6 @@ Low level project plan, this week todos
  - do initial end to end code generation testing           [ ]
 
 Add progress TODO list
-- resolve globals before main function
-- does log and/log or need push_frame/pop_frame?
-- tomorrow casts
-- tomorrow pointer ops
-- tomorrow resolve all call/operators
-- ccall/stdcall/aethcall
-- load system_functions (like main function)
-- add const/volatile correctness
-- construct call
-- variable + destructor
-- lambda function
-- dotmem
-- index
 - post plus plus
 - post minus minus
 - pre plus
@@ -38,10 +25,24 @@ Add progress TODO list
 - pre question
 - pre address
 - pre deref
+- lambda function
+- dotmem
+- index
+- tomorrow casts
+- tomorrow pointer ops
+- construct call
 - cast/conversion
-- function casts / function/operator call determination
-- global/local correctness
-- windows LoadLibrary/GetProcAddress
+- ccall/stdcall/aethcall
+- tomorrow resolve all call/operators
 - alignment_of<:T:> other inbuilt functions
+- windows LoadLibrary/GetProcAddress
+
+- resolve globals before main function
+- does log and/log or need push_frame/pop_frame?
+- load system_functions (like main function)
+- variable + destructor
+- function casts / function/operator call determination
+- add const/volatile correctness
+- global/local correctness
 - get constants as values
 - finish of templates
