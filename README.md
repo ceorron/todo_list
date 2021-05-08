@@ -16,16 +16,11 @@ Low level project plan, this week todos
  - do initial end to end code generation testing           [ ]
 
 Add progress TODO list
-- pre plus
-- pre minus
-- pre compliment
-- pre not
-- pre question
 - pre address
 - pre deref
-- lambda function
 - dotmem
 - index
+- lambda function
 - tomorrow casts
 - tomorrow pointer ops
 - construct call
