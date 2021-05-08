@@ -16,7 +16,6 @@ Low level project plan, this week todos
  - do initial end to end code generation testing           [ ]
 
 Add progress TODO list
-- tomorrow pointer ops
 - pre address
 - pre deref
 - dotmem
