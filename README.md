@@ -16,8 +16,6 @@ Low level project plan, this week todos
  - do initial end to end code generation testing           [ ]
 
 Add progress TODO list
-- tomorrow casts
-- cast/conversion
 - alignment_of<:T:> other inbuilt functions
 - construct call
 - ternary
