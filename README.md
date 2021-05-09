@@ -16,17 +16,15 @@ Low level project plan, this week todos
  - do initial end to end code generation testing           [ ]
 
 Add progress TODO list
-- dotmem
-- index
-- lambda function
 - tomorrow casts
-- ternary
-- construct call
 - cast/conversion
+- alignment_of<:T:> other inbuilt functions
+- construct call
+- ternary
 - ccall/stdcall/aethcall
 - return
 - tomorrow resolve all call/operators
-- alignment_of<:T:> other inbuilt functions
+- lambda function
 - windows LoadLibrary/GetProcAddress
 - [ later ]
 - resolve globals before main function
