@@ -16,12 +16,12 @@ Low level project plan, this week todos
  - do initial end to end code generation testing           [ ]
 
 Add progress TODO list
-- construct call
 - ternary
 - ccall/stdcall/aethcall
 - return
-- tomorrow resolve all call/operators
+- get value/get reference for structure
 - lambda function
+- tomorrow resolve all call/operators
 - windows LoadLibrary/GetProcAddress
 - [ later ]
 - resolve globals before main function
