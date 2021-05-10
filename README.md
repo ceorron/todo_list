@@ -17,6 +17,8 @@ Low level project plan, this week todos
 
 Add progress TODO list
 - alignment_of<:T:> other inbuilt functions
+    - construct
+    - destruct
 - construct call
 - ternary
 - ccall/stdcall/aethcall
