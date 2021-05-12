@@ -17,8 +17,8 @@ Low level project plan, this week todos
 
 Add progress TODO list
 - return
-- get value/get reference for structure
 - lambda function
+- get value/get reference for structure
 - tomorrow resolve all call/operators
 - windows LoadLibrary/GetProcAddress
 - [ later ]
