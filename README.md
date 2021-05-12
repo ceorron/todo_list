@@ -16,9 +16,8 @@ Low level project plan, this week todos
  - do initial end to end code generation testing           [ ]
 
 Add progress TODO list
-- return
 - lambda function
-- get value/get reference for structure
+- get value/get reference for structure (get reference to value)
 - tomorrow resolve all call/operators
 - windows LoadLibrary/GetProcAddress
 - [ later ]
