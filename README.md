@@ -16,7 +16,6 @@ Low level project plan, this week todos
  - do initial end to end code generation testing           [ ]
 
 Add progress TODO list
-- lambda function
 - get value/get reference for structure (get reference to value)
 - stack_top function
 - tomorrow resolve all call/operators
