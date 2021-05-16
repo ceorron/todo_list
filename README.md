@@ -16,6 +16,13 @@ Low level project plan, this week todos
  - do initial end to end code generation testing           [ ]
 
 Add progress TODO list
+ - tick off as we go - after this print should work
+ - test parse - get parser working				                     []
+ - test get function calls/generation working              []
+ - test get modules/import working				                     []
+ - test get ir code generation working			                  []
+ - test get internal code generation working	              []
+ - test start adding features					                         []
 - get value/get reference for structure (get reference to value)
 - stack_top function
 - tomorrow resolve all call/operators
