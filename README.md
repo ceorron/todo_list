@@ -17,7 +17,6 @@ Low level project plan, this week todos
 
 Add progress TODO list
  - tick off as we go - after this print should work
- - test parse - get parser working				                     []
  - test get function calls/generation working              []
  - test get modules/import working				                     []
  - test get ir code generation working			                  []
