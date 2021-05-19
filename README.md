@@ -18,6 +18,21 @@ Low level project plan, this week todos
 Add progress TODO list
  - tick off as we go - after this print should work
  - test get function calls/generation working              []
+    - make resolve match generate
+    - For both resolve & generate
+    - make "string!" constant
+    - call print with "string!" parameter
+    - do loop within print function
+    - do pointer operations =, ++, *, ==, !=
+    - do const_static_list operations "begin", "end"
+    - call function from import "fn_putchar(int)"
+    - do return of int, do return of void (finish function)
+
+    - do create allocator
+    - do destroy allocator
+    - do create module global + destroy module global
+    - do create module local + destroy module global
+ 
  - test get modules/import working				                     []
  - test get ir code generation working			                  []
  - test get internal code generation working	              []
