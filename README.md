@@ -18,7 +18,7 @@ Low level project plan, this week todos
 Add progress TODO list
  - tick off as we go - after this print should work
  - test get function calls/generation working              []
-    - make resolve match generate
+    - make resolve match generate (log and/log or)
     - For both resolve & generate
     - make "string!" constant
     - call print with "string!" parameter
