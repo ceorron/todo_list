@@ -19,6 +19,7 @@ Add progress TODO list
  - tick off as we go - after this print should work
  - test get function calls/generation working              []
     - make resolve match generate (function + resolve function, import function call)
+    - lambda on resolve
     - make "string!" constant (check)
     - call print with "string!" parameter (check)
     - do loop within print function (check)
