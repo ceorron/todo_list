@@ -18,15 +18,14 @@ Low level project plan, this week todos
 Add progress TODO list
  - tick off as we go - after this print should work
  - test get function calls/generation working              []
-    - make resolve match generate (log and/log or)
-    - For both resolve & generate
-    - make "string!" constant
-    - call print with "string!" parameter
-    - do loop within print function
-    - do pointer operations =, ++, *, ==, !=
-    - do const_static_list operations "begin", "end"
-    - call function from import "fn_putchar(int)"
-    - do return of int, do return of void (finish function)
+    - make resolve match generate (function + resolve function, import function call)
+    - make "string!" constant (check)
+    - call print with "string!" parameter (check)
+    - do loop within print function (check)
+    - do pointer operations =, ++, *, ==, != (check)
+    - do const_static_list operations "begin", "end" (check)
+    - call function from import "fn_putchar(int)" (check)
+    - do return of int, do return of void (finish function) (check)
 
     - do create allocator
     - do destroy allocator
