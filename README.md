@@ -30,6 +30,7 @@ Add progress TODO list
     - do destroy allocator
     - do create module global + destroy module global
     - do create module local + destroy module global
+    - get_stack_top() + other inbuilt functions
 
  - test get modules/import working				                     []
  - test get ir code generation working			                  []
