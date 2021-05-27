@@ -18,19 +18,30 @@ Low level project plan, this week todos
 Add progress TODO list
  - tick off as we go - after this print should work
  - test get function calls/generation working              []
-    - call print with "string!" parameter (check)
-    - do loop within print function (check)
-    - do pointer operations =, ++, *, ==, != (check)
-    - do const_static_list operations "begin", "end" (check)
-    - call function from import "fn_putchar(int)" (check)
-    - do return of int, do return of void (finish function) (check)
-    - do resolve/generate functions calls correctly (check)
+    - call print with "string!" parameter (check)                      - fail (do import call)
+    - do loop within print function (check)                            - good
+    - do pointer operations =, ++, *, ==, != (check)                   - good
+    - do const_static_list operations "begin", "end" (check)           - good
+    - call function from import "fn_putchar(int)" (check)              - fail
+    - do return of int, do return of void (finish function) (check)    - good
+    - do resolve/generate functions calls correctly (check)            - fail
 
-    - do create allocator
-    - do destroy allocator
-    - do create module global + destroy module global
-    - do create module local + destroy module global
-    - get_stack_top() + other inbuilt functions
+    - do types, including construct/destruct                           - fail
+
+    - do create allocator                                              - fail
+    - do destroy allocator                                             - fail
+    - do create module global + destroy module global                  - fail
+    - do create module local + destroy module global                   - fail
+
+    - get_stack_top() + other inbuilt functions                        - fail
+    - allocator_for<:T:>                                               - fail (the compiler)
+    - is_trivially_destruct<:T:>()                                     - fail
+    - is_trivially_copy_construct<:T:>()                               - fail
+    - is_trivially_move_construct<:T:>()                               - fail
+    - is_trivially_construct<:T:>()                                    - fail
+
+    - do module generation                                             - fail
+    - do code generation                                               - fail
 
  - test get modules/import working				                     []
  - test get ir code generation working			                  []
