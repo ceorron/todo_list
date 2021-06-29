@@ -98,5 +98,5 @@ Add progress TODO list
 - other compiler improvements
 - remove c++ code base (move everything else across)
 - download code/release code/online shop facilities
-[later]
+# later
 - release for a monthly fee
