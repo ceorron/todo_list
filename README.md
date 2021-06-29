@@ -61,3 +61,31 @@ Add progress TODO list
 - global/local correctness
 - get constants as values
 - finish of templates
+
+
+# Top Level Plan - Project plan
+
+- compiler/virtual machine (all implementable features)
+- remake all of the libraries (everyone except dionysus and opengui)
+- make new streaming libraries (other new libraries/improvements)
+- make opengui (concurrent with below)
+  - make each of the gui editors (keep adding)
+    - aether text editor
+    - game engine editor
+    - 3D modelling
+    - 2D modelling
+    - 3D design
+    - 2D design
+    - 3D animation
+    - 2D animation
+    - video editor
+    - music editor
+    - sound effect editor
+    - terrain generator
+    - automation tools
+    - math tools
+    - AI library (rule based programming)
+- do self hosting compiler/virtual machine (aether compiles itself)
+- hot swappable code (plugins)
+- other compiler improvements
+- remove c++ code base (move everything else across)
