@@ -94,6 +94,7 @@ Add progress TODO list
       - AI oracle
       - AI task library
 - do self hosting compiler/virtual machine (aether compiles itself)
+  - compile to other targets (arm, gpu, wasm, etc.) 
 - hot swappable code (plugins)
 - other compiler improvements
 - remove c++ code base (move everything else across)
