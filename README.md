@@ -65,27 +65,38 @@ Add progress TODO list
 
 # Top Level Plan - Project plan
 
-- compiler/virtual machine (all implementable features)
-- remake all of the libraries (everyone except dionysus and opengui)
+- compiler/virtual machine (all implementable features) [hear]
+- remake all of the libraries (everything except dionysus and opengui)
 - make new streaming libraries (other new libraries/improvements)
 - make opengui (concurrent with below)
   - make each of the gui editors (keep adding)
     - aether text editor
-    - game engine editor
-    - 3D modelling
-    - 2D modelling
-    - 3D design
-    - 2D design
-    - 3D animation
-    - 2D animation
+    - make dionysus (concurrent with below)
+      - game engine editor
+      - 3D modelling editor
+      - 2D modelling editor
+      - 3D animation editor
+      - 2D animation editor
+      - terrain generator editor
+      - automation tools editor
+    - flow chart programming (FSM)
+    - flow chart programming (flow diagram)
+    - 3D design editor
+    - 2D design editor
     - video editor
     - music editor
     - sound effect editor
-    - terrain generator
-    - automation tools
-    - math tools
+    - math tools editor
     - AI library (rule based programming)
+      - AI assistant
+      - AI designer
+      - AI driver
+      - AI oracle
+      - AI task library
 - do self hosting compiler/virtual machine (aether compiles itself)
 - hot swappable code (plugins)
 - other compiler improvements
 - remove c++ code base (move everything else across)
+- download code/release code/online shop facilities
+[later]
+- release for a monthly fee
