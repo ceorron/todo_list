@@ -72,6 +72,7 @@ Add progress TODO list
   - make each of the gui editors (keep adding)
     - aether text editor
     - make dionysus (concurrent with below)
+      - IDE (complete text editor to have other features)
       - game engine editor
       - 3D modelling editor
       - 2D modelling editor
@@ -79,6 +80,12 @@ Add progress TODO list
       - 2D animation editor
       - terrain generator editor
       - automation tools editor
+      - image editor
+      - sound editor
+      - video editor
+      - font editor
+      - business tools
+      - math tools
     - flow chart programming (FSM)
     - flow chart programming (flow diagram)
     - 3D design editor
