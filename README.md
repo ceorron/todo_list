@@ -65,7 +65,7 @@ Add progress TODO list
 
 # Top Level Plan - Project plan
 
-- compiler/virtual machine (all implementable features, X86-64 only) [hear]
+- compiler/virtual machine (all implementable features, X86-64 only) [here]
 - remake all of the libraries (everything except dionysus and opengui)
 - make new streaming libraries (other new libraries/improvements)
 - make opengui (concurrent with below)
