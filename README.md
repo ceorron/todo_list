@@ -16,14 +16,8 @@ Low level project plan, this week todos
  - do initial end to end code generation testing           [ ]
 
 Add progress TODO list
- - tick off as we go - after this print should work
+ - tick off as we go
  - test get function calls/generation working              []
-    - call print with "string!" parameter (check)                      - fail (do import call) (7)
-    - do loop within print function (check)                            - good (0)
-    - do pointer operations =, ++, *, ==, != (check)                   - good (0)
-    - do const_static_list operations "begin", "end" (check)           - good (0)
-    - call function from import "fn_putchar(int)" (check)              - fail (8)
-    - do return of int, do return of void (finish function) (check)    - fail (15)
     - do resolve/generate functions calls correctly (check)            - fail (9)
 
     - do types, including construct/destruct                           - fail (6)
