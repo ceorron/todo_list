@@ -111,7 +111,7 @@ resolve:
 
 - variable []
 - namelist []
-- bracketexpression []
+- bracketexpression [X]
 - constructcall []
 - listconstructcall []
 - constant []
@@ -198,7 +198,7 @@ generate:
 
 - variable []
 - namelist []
-- bracketexpression []
+- bracketexpression [X]
 - constructcall []
 - listconstructcall []
 - constant []
