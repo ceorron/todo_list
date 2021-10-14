@@ -100,8 +100,6 @@ Add progress TODO list
 - other compiler improvements
 - remove c++ code base (move everything else across)
 - download code/release code/online shop facilities
-# later
-- release for a monthly fee
 
 
 Do everything to get the hello world example working first
