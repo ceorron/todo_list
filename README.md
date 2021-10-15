@@ -15,47 +15,6 @@ Low level project plan, this week todos
    - do import function code generation                    [ ]
  - do initial end to end code generation testing           [ ]
 
-Add progress TODO list
- - tick off as we go
- - test get function calls/generation working              []
-    - do resolve/generate functions calls correctly (check)            - fail (9)
-
-    - do types, including construct/destruct                           - fail (6)
-
-    - do create allocator                                              - fail (10)
-    - do destroy allocator                                             - fail (11)
-    - do create module global + destroy module global                  - fail (12)
-    - do create module local + destroy module global                   - fail (13)
-
-    - get_stack_top() + other inbuilt functions                        - fail (14)
-    - allocator_for<:T:>                                               - fail (the compiler) (5)
-    - is_trivially_destruct<:T:>()                                     - fail (1)
-    - is_trivially_copy_construct<:T:>()                               - fail (2)
-    - is_trivially_move_construct<:T:>()                               - fail (3)
-    - is_trivially_construct<:T:>()                                    - fail (4)
-
-    - do module generation                                             - fail (16)
-    - do code generation                                               - fail (17)
-
- - test get modules/import working				                     []
- - test get ir code generation working			                  []
- - test get internal code generation working	              []
- - test start adding features					                         []
-- get value/get reference for structure (get reference to value)
-- stack_top function
-- tomorrow resolve all call/operators
-- windows LoadLibrary/GetProcAddress
-- [ later ]
-- resolve globals before main function
-- does log and/log or need push_frame/pop_frame?
-- load system_functions (like main function)
-- variable + destructor
-- function casts / function/operator call determination
-- add const/volatile correctness
-- global/local correctness
-- get constants as values
-- finish of templates
-
 
 # Top Level Plan - Project plan
 
