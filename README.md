@@ -1,7 +1,7 @@
 # todo list for ceorron projects
 
-High level project plan
- - c++ compiler                                            [ ]
+High level project plan (compiler)
+ - aether compiler                                         [ ]
  - aether standard library                                 [ ]
  - aether compiler                                         [ ]
  - aether code port                                        [ ]
