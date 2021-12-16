@@ -13,6 +13,10 @@ Low level project plan, this week todos
    - do module/module function lookup                      [ ]
    - do import function code generation                    [ ]
 
+# TODO on the compiler
+
+ - return value optimisation (RVO)                         [ ]
+
 # Top Level Plan - Project plan
 
 - compiler/virtual machine (all implementable features, X86-64 only) [here]
@@ -60,38 +64,3 @@ Low level project plan, this week todos
 
 Do everything to get the hello world example working first
 (KEY: X is complete, O is partial, empty is not started yet)
-
-resolve + generate:
-
-- variable []
-- namelist []
-- constructcall []
-- listconstructcall []
-- constant []
-- result_ []
-- try []
-- foreach []
-- forbaseeach []
-- withblock []
-- labelblock []
-- lambdafunc []
-- cast []
-- dotmem []
-- memaccess []
-- baseaccess []
-- constructcall []
-- funccall []
-- index []
-- preops []
-- postops []
-- atom []
-- logand []
-- logor []
-- refequal []
-- ternary []
-- yld []
-- thrw []
-- goto []
-- compilerdirective []
-- basiclabel []
-
