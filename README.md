@@ -8,13 +8,10 @@ High level project plan (compiler)
  - hot swapping aether code                                [ ]
 
 Low level project plan, this week todos
- - make lexer/parser                                       [ ]
- - do ir code converter                                    [ ]
+ - refine lexer/parser                                     [ ]
    - do system functions                                   [ ]
    - do module/module function lookup                      [ ]
    - do import function code generation                    [ ]
- - do initial end to end code generation testing           [ ]
-
 
 # Top Level Plan - Project plan
 
