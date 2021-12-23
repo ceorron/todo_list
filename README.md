@@ -62,5 +62,4 @@ Low level project plan, this week todos
 - download code/release code/online shop facilities
 
 
-Do everything to get the hello world example working first
 (KEY: X is complete, O is partial, empty is not started yet)
