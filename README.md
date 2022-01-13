@@ -7,12 +7,6 @@ High level project plan (compiler)
  - aether code port                                        [ ]
  - hot swapping aether code                                [ ]
 
-Low level project plan, this week todos
- - refine lexer/parser                                     [ ]
-   - do system functions                                   [ ]
-   - do module/module function lookup                      [ ]
-   - do import function code generation                    [ ]
-
 # TODO on the compiler
 
  - return value optimisation (RVO)                         [ ]
