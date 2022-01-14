@@ -3,7 +3,7 @@
 High level project plan (compiler)
  - aether compiler                                         [ ]
  - aether standard library                                 [ ]
- - aether compiler                                         [ ]
+ - aether compiler v 2.0                                   [ ]
  - aether code port                                        [ ]
  - hot swapping aether code                                [ ]
 
