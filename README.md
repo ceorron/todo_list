@@ -10,6 +10,7 @@ High level project plan (compiler)
 # TODO on the compiler
 
  - return value optimisation (RVO)                         [ ]
+ - see other changes in test.ath + aetherpl.eko            [ ]
 
 # Top Level Plan - Project plan
 
