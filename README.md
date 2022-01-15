@@ -58,3 +58,10 @@ High level project plan (compiler)
 
 
 (KEY: X is complete, O is partial, empty is not started yet)
+
+# TODO on the compiler - in order of completion
+
+ - with block + testing                          [ ]
+ - try/catch/default/throw                       [ ]
+ - coroutines/yield                              [ ]
+ - goto/label blocks                             [ ]
