@@ -62,6 +62,7 @@ High level project plan (compiler)
 # TODO on the compiler - in order of completion
 
  - with block + testing                          [ ]
- - try/catch/default/throw + testing             [ ]
+ - lambda + testing                              [ ]
  - coroutines/yield + testing                    [ ]
+ - try/catch/default/throw + testing             [ ]
  - goto/label blocks + testing                   [ ]
