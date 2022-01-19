@@ -63,8 +63,8 @@ High level project plan (compiler)
 
  - with block + testing                          [ ]
  - lambda + testing                              [ ]
- - local vector<::>                              [ ]
- - global vector<::>                             [ ]
+ - local vector<::> + testing                    [ ]
+ - global vector<::> + testing                   [ ]
  - coroutines/yield + testing                    [ ]
  - try/catch/default/throw + testing             [ ]
  - goto/label blocks + testing                   [ ]
