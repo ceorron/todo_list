@@ -61,7 +61,7 @@ High level project plan (compiler)
 
 # TODO on the compiler - in order of completion
 
- - with block + testing                          [ ]
+ - with block + testing                          [x]
  - lambda + testing                              [ ]
  - local vector<::> + testing                    [ ]
  - global vector<::> + testing                   [ ]
