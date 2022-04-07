@@ -68,3 +68,4 @@ High level project plan (compiler)
  - coroutines/yield + testing                    [o]
  - try/catch/default/throw + testing             [ ]
  - goto/label blocks + testing                   [ ]
+ - local/global modules                          [ ]
