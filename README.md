@@ -9,7 +9,7 @@ High level project plan (compiler)
 
 # TODO on the compiler
 
- - return value optimisation (RVO)                         [ ]
+ - return value optimisation (RVO)                         [o]
  - see other changes in test.ath + aetherpl.eko            [ ]
 
 # Top Level Plan - Project plan
@@ -65,7 +65,7 @@ High level project plan (compiler)
  - lambda + testing                              [o]
  - local vector<::> + testing                    [o]
  - global vector<::> + testing                   [ ]
- - coroutines/yield + testing                    [o]
- - try/catch/default/throw + testing             [ ]
+ - coroutines/yield + testing                    [x]
+ - try/catch/default/throw + testing             [x]
  - goto/label blocks + testing                   [ ]
  - local/global modules                          [ ]
