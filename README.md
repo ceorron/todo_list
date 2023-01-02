@@ -16,7 +16,12 @@ High level project plan (compiler)
 
 - compiler/virtual machine (all implementable features, X86-64 only) [here]
 - remake all of the libraries (everything except dionysus and opengui)
-- make new streaming libraries (other new libraries/improvements)
+- make new libraries
+  - copy
+  - deep copy
+  - comparison
+  - streaming (in, out)
+  - cycle scan
 - make opengui (concurrent with below)
   - make each of the gui editors (keep adding)
     - aether text editor
