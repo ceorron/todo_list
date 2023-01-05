@@ -21,6 +21,7 @@ High level project plan (compiler)
   - deep copy
   - comparison
   - streaming (in, out)
+  - string printing
   - cycle scan
 - make opengui (concurrent with below)
   - make each of the gui editors (keep adding)
