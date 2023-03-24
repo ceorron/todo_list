@@ -1,7 +1,7 @@
 # todo list for ceorron projects
 
 High level project plan (compiler)
- - aether compiler                                         [ ]
+ - aether compiler                                         [o]
  - aether standard library                                 [ ]
  - aether code port                                        [ ]
  - aether compiler v 2.0                                   [ ]
@@ -9,7 +9,7 @@ High level project plan (compiler)
 
 # TODO on the compiler
 
- - return value optimisation (RVO)                         [o]
+ - return value optimisation (RVO)                         [x]
  - see other changes in test.ath + aetherpl.eko            [ ]
 
 # Top Level Plan - Project plan
@@ -73,5 +73,5 @@ High level project plan (compiler)
  - global vector<::> + testing                   [ ]
  - coroutines/yield + testing                    [x]
  - try/catch/default/throw + testing             [x]
- - goto/label blocks + testing                   [ ]
+ - goto/label blocks + testing                   [o]
  - local/global modules                          [ ]
