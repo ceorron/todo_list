@@ -20,9 +20,9 @@ High level project plan (compiler)
  - local/global modules                                    [ ]
  - constant propagation                                    [o] - here
 
-basic_shared_pointer									                              [x]  #0
+ - basic_shared_pointer									                              [x]  #0
 
-heavy_code_review										                                []	#1
+ - heavy_code_review										                                []	#1
  - fptrs, lambda fptrs, coroutine						                     [x]  #1.2
  - auto/typeof on types								                            	[x]  #1.3
  - rvo, tvo, yvo on return, throw or yeild			              	[x]  #1.4
